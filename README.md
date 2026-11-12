@@ -122,26 +122,3 @@ Không bắt buộc cài Maven CLI riêng nếu IDE đã cấu hình Maven integ
 
 Trong IDE, mở `src/main/java/com/restman/view/CustomerMainFrm3.java` và chạy `CustomerMainFrm3.main()` dưới dạng Java Application. Desktop UI cũng sử dụng cấu hình kết nối trong `application.properties`; cần bảo đảm file này nằm trên classpath và MySQL đang chạy.
 
-## Tài liệu và ảnh báo cáo
-
-Đặt ảnh thực tế trong `docs/images/`, sau đó thay ảnh placeholder tương ứng bên dưới.
-
-### Cấu trúc và sơ đồ
-
-| Nội dung | Ảnh |
-|---|---|
-| Cấu trúc thư mục dự án | ![Cấu trúc thư mục dự án](docs/images/project-structure.png) |
-| Use Case Diagram | ![Use Case Diagram](docs/images/use-case-diagram.png) |
-| Class Diagram | ![Class Diagram](docs/images/class-diagram.png) |
-| Sequence Diagram | ![Sequence Diagram](docs/images/sequence-diagram.png) |
-| ERD — mô hình dữ liệu | ![ERD](docs/images/erd.png) |
-
-### Ảnh giao diện
-
-| Màn hình | Ảnh |
-|---|---|
-| Đăng nhập Web | ![Đăng nhập Web](docs/images/web-login.png) |
-| Tìm kiếm thực đơn | ![Tìm kiếm món ăn](docs/images/web-dish-search.png) |
-| Đặt món khách hàng | ![Đặt món trực tuyến](docs/images/web-customer-order.png) |
-| Thống kê quản lý | ![Thống kê đơn hàng](docs/images/web-manager-statistics.png) |
-| Giao diện Java Swing | ![Giao diện Desktop](docs/images/desktop-main.png) |
